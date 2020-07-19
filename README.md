@@ -1,0 +1,1 @@
+This project is simply to reconstruct the google homepage layout from scratch. Learning outcomes are to gain familiarity with Chrome devtools to be able to edit websites more efficiently.
